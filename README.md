@@ -38,8 +38,13 @@
 #### 6. When you are creating the pinecone index make sure,
    - **index_name = "langchain-chatbot"**
    - **Dimensions of the index is 384**
+
+#### 7. Indexing to pinecone
+```bash
+  python indexing.py
+```
  
-#### 7. Run the web app
+#### 8. Run the web app
 ```bash
   streamlit run main.py
 ```
