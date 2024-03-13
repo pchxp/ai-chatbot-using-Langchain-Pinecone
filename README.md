@@ -1,4 +1,4 @@
-# Chatbot Answering from Your Own Knowledge Base: Langchain, ChatGPT, Pinecone, and Streamlit
+# Chatbot Answering from Your Own Knowledge Base: Langchain, ChatGPT, HuggingFace, Pinecone, Streamlit
 ![스크린샷 2024-03-13 145237](https://github.com/pchxp/ai-chatbot-using-Langchain-Pinecone/assets/31230133/7d0461a7-4f19-4c98-98b4-35a3971b8fac)
 ## Deployment
 
