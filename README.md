@@ -6,7 +6,7 @@
 #### 1. Clone Repository 
 
 ```bash
-  git clone https://github.com/farukalampro/ai-chatbot-using-Langchain-Pinecone.git
+  git clone https://github.com/pchxp/ai-chatbot-using-Langchain-Pinecone.git
 ```
 ```bash
   cd ai-chatbot-using-Langchain-Pinecone
