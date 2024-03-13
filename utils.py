@@ -9,7 +9,7 @@ model = SentenceTransformer('all-MiniLM-L6-v2')
 pinecone.init(api_key='', # find at app.pinecone.io
               environment='' # next to api key in console
              )
-index = pinecone.Index('' # index name from pinecone)
+index = pinecone.Index('') # index name from pinecone
 
 
 def find_match(input):
