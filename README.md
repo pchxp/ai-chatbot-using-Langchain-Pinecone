@@ -1,6 +1,5 @@
 # Chatbot Answering from Your Own Knowledge Base: Langchain, ChatGPT, Pinecone, and Streamlit
-![main-·-Streamlit (1)](https://github.com/farukalampro/ai-chatbot-using-Langchain-Pinecone/assets/92469073/3f3ff527-f330-409f-959f-674846deb9a7)
-
+![스크린샷 2024-03-13 145237](https://github.com/pchxp/ai-chatbot-using-Langchain-Pinecone/assets/31230133/7d0461a7-4f19-4c98-98b4-35a3971b8fac)
 ## Deployment
 
 #### 1. Clone Repository 
