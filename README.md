@@ -39,7 +39,7 @@
    - **index_name = "langchain-chatbot"**
    - **Dimensions of the index is 384**
 
-#### 7. Indexing to pinecone
+#### 7. Indexing to vectorDB(pinecone)
 ```bash
   python indexing.py
 ```
