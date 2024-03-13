@@ -42,6 +42,7 @@
 ```bash
   python indexing.py
 ```
+![스크린샷 2024-03-13 161521](https://github.com/pchxp/ai-chatbot-using-Langchain-Pinecone/assets/31230133/9377502f-022f-4356-88a5-20bd3099d9b7)
  
 #### 8. Run the web app
 ```bash
